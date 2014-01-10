@@ -2,7 +2,7 @@
 
 This is the free version of the Popular Nishita Wordpress Photography Theme.
 
-* Nishita (free) - [Demo](http://demo-wp.theme6.com/nishita/)
+* Nishita (free) - [Demo](http://demo-wp.theme6.com/nishita/) | [Source on Github](https://github.com/theme6/nishita-free)
 * Nishita (pro) - [Buy](http://theme6.com/nishita/)
 * More Themes at [Theme6](http://theme6.com/)
 
